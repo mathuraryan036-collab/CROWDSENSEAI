@@ -34,8 +34,6 @@ cd backend
 .\venv\Scripts\Activate.ps1
 uvicorn main:app --reload
 
-### 2. Frontend Command Center (Terminal 2)
-```bash
 cd frontend
 npm install
 npm run dev
